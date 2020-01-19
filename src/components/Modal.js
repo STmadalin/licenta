@@ -23,7 +23,15 @@ export default class Modal extends Component {
                       id="modal"
                       className="col-8 mx-auto col-md-6 col-lg-4 text-center p-5"
                     >
-                      <ModalH5>Produsul a fost adaugat in cos</ModalH5>
+                      <ModalH5>
+                        <strong>
+                          <i class="fas fa-check" style={{ color: "green" }}>
+                            {" "}
+                            Produs adaugat cu scucces
+                          </i>
+                        </strong>{" "}
+                      </ModalH5>
+                      <hr style={{ border: "1px solid grey" }} />
                       <img src={img} className="img-fluid" alt="product" />
                       <ModalH5>{title}</ModalH5>
                       <h5 className="text-muted">Pret : {price}€</h5>
@@ -64,10 +72,10 @@ const ModalContainer = styled.div`
     border-radius: 0.5rem;
   }
   #h5 {
-    color: var(--mainWhite)
+    color: var(--mainWhite);
   }
 `;
 
 const ModalH5 = styled.h5`
   color: var(--mainWhite) !important;
-`
+`;
