@@ -336,3 +336,5 @@
 [0113/022713.881:ERROR:crash_report_database_win.cc(469)] failed to stat report
 [0115/145735.163:ERROR:crash_report_database_win.cc(469)] failed to stat report
 [0115/145735.165:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0120/175715.063:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0120/175715.066:ERROR:crash_report_database_win.cc(469)] failed to stat report

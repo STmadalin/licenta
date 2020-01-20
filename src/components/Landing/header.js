@@ -12,7 +12,7 @@ class Header extends Component {
             <h1>Articole< br/>  sportive</h1>
             <div>
               <p>ASport este o companie din România care se ocupă cu vânzarea online de articole sportive.</p>
-              <div><Link to="/produse"><a className="contact">Produse</a></Link></div>
+              
               
             
             </div>

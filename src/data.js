@@ -13,7 +13,7 @@ export const storeProducts = [
   },
   {
     id: 2,
-    title: "Minge Fotbal",
+    title: "Minge de rugby",
     img: "img/product-2.png",
     model: "Minge Fotbal american ACTION PU 20 cm",
     price: 14,
