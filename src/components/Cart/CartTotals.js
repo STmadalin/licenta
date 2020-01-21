@@ -15,7 +15,7 @@ export default function CartTotals({ value, history }) {
                 type="button"
                 onClick={() => clearCart()}
               >
-                <strong>Goleste cosul</strong>
+                <strong>Golește coșul</strong>
               </button>
             </Link>
             <h5>

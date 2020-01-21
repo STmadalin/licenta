@@ -11,13 +11,13 @@ export default function CartColumns() {
                     <p className="text-uppercase"><strong>Nume produs</strong></p>
                 </div>
                 <div className="col-10 mx-auto col-lg-2">
-                    <p className="text-uppercase"><strong>Pret</strong></p>
+                    <p className="text-uppercase"><strong>Preț</strong></p>
                 </div>
                 <div className="col-10 mx-auto col-lg-2">
                     <p className="text-uppercase"><strong>Cantitate</strong></p>
                 </div>
                 <div className="col-10 mx-auto col-lg-2">
-                    <p className="text-uppercase"><strong>Sterge</strong></p>
+                    <p className="text-uppercase"><strong>Șterge</strong></p>
                 </div>
                 <div className="col-10 mx-auto col-lg-2">
                     <p className="text-uppercase"><strong>Total</strong></p>

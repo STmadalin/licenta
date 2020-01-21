@@ -6,7 +6,7 @@ export const storeProducts = [
     price: 10,
     model: "Minge de fotbal mărimea nr. 5, Quasar, alb-negru",
     info:
-      "Minge de fotbal Quasar, marimea 5, confectionata din piele ecologica. Mingea Quasar este prima alegere pentru curtea interioara, strada sau terenul de fotbal. Este cusuta la masina si are un design clasic, fiind potivita pentru orice meci.",
+      "Minge de fotbal Quasar, mărimea 5, confecționată din piele ecologică.  Mingea Quasar este prima alegere pentru curtea interioară, stradă sau terenul de fotbal.  Este cusută la mașină și are un design clasic, fiind potivită pentru orice meci.",
     inCart: false,
     count: 0,
     total: 0
@@ -15,22 +15,22 @@ export const storeProducts = [
     id: 2,
     title: "Minge de rugby",
     img: "img/product-2.png",
-    model: "Minge Fotbal american ACTION PU 20 cm",
+    model: "Minge de fotbal american ACTION PU 20 cm",
     price: 14,
     info:
-      "Exerseaza-ti abilitatile de aruncare cu fotbalul american ACTION PU , oferind tehnologie ultra-grip si un design din piele compozit pentru un sentiment imbunatatit. Acest fotbal american are semnatura ACTION si marca PU de-a lungul partilor, cuplat cu un efect cusut in partea de sus pentru a termina aspectul.",
+      "Exersează-ți abilitățile de aruncare cu fotbalul american ACTION PU , oferind tehnologie ultra-grip și un design din piele compozit pentru un sentiment îmbunătățit. Acest fotbal american are semnătură ACTION și marca PU de-a lungul părților, cuplat cu un efect cusut în partea de sus pentru a termina aspectul.",
     inCart: false,
     count: 0,
     total: 0
   },
   {
     id: 3,
-    title: "Racheta de tenis",
+    title: "Rachetă de tenis",
     img: "img/product-3.png",
     price: 27,
     model: "Babolat Pure Aero GT",
     info:
-      "Constructie Racheta pentru jucatori avansati, rama aerodinamica. Caracteristici Greutate: 300g Balans: 320mm. Suprafata cap: 645 cm2, Lungime:685 cm.Tehnologie: Side Woofer - control sporit, Tehnologie GT care prin fibre de carbon asigura control sporit al mingii.",
+      "Construcție Rachetă pentru jucători avansați, ramă aerodinamică. Caracteristici Greutate: 300g Balans: 320mm. Suprafață cap: 645 cm2, Lungime:685 cm.Tehnologie: Side Woofer - control sporit, Tehnologie GT care prin fibre de carbon asigură control sporit al mingii.",
     inCart: false,
     count: 0,
     total: 0
@@ -42,7 +42,7 @@ export const storeProducts = [
     price: 5,
     model: "Maxtar",
     info:
-      "Mingi de tenis Maxtar Prezentare: Set 3 bucati Mingea de Tenis originala cu micro celule, cu tehnologie TRI-TEC™ si un invelis tip Flex-Felt pentru o durabilitate maxima si performanta similara pe toate suprafetele de joc. Mingile Maxtar cu micro celule sunt recomandata atat pentru jucatorul frecvent cat si pentru jucatorii ocazionali care practica tenisul pentru recreere.",
+      "Mingi de tenis Maxtar Prezentare: Set 3 bucăți Mingea de Tenis originală cu micro celule, cu tehnologie TRI-TEC™ și un înveliș tip Flex-Felt pentru o durabilitate maximă și performanță similară pe toate suprafețele de joc. Mingile Maxtar cu micro celule sunt recomandate atât pentru jucătorul frecvent cât și pentru jucătorii ocazionali care practică tenisul pentru recreere.",
     inCart: false,
     count: 0,
     total: 0
@@ -52,33 +52,33 @@ export const storeProducts = [
     title: "Minge de baschet",
     img: "img/product-5.png",
     price: 24,
-    model: "Minge Wilson Performance All Star, Maro, Marime 7",
+    model: "Minge Wilson Performance All Star, Maro, Mărime 7",
     info:
-      "In centrul istoriei sportive de aproape un secol, nici o alta companie nu a fost atat de influenta si intim implicata in modelarea jocurilor de tenis, golf, baseball si fotbal american, ca Wilson. In calitate de autor al tehnologiilor descoperite, Wilson a produs echipamente legendare si a castigat legitimitate la nivel mondial in fiecare sport la care participa. Sprijiniti de generatii de atleti, Wilson este un adevarat icon american in lumea echipamentelor sportive.",
+      "În centrul istoriei sportive de aproape un secol, nici o altă companie nu a fost atât de influentă și implicată în modelarea jocurilor de tenis, golf, baseball și fotbal american, ca Wilson. În calitate de autor al tehnologiilor descoperite, Wilson a produs echipamente legendare și a câștigat legitimitate la nivel mondial în fiecare sport la care participă. Sprijiniți de generații de atleți, Wilson este un adevărat icon american în lumea echipamentelor sportive.",
     inCart: false,
     count: 0,
     total: 0
   },
   {
     id: 6,
-    title: "Cos de baschet",
+    title: "Coș de baschet",
     img: "img/product-6.png",
     price: 17,
-    model: "(Inel) Kings Sport, dublu cu amortizor, Marime Oficiala, 18",
+    model: "(Inel) Kings Sport, dublu cu amortizor, Mărime Oficiala, 18",
     info:
-      "Inel baschet American Classic, teava inel dubla, cu arc si cu plasa, pentru interior sau exterior. Diametru inel (cos): 45 cm. Diametru fiecare teava inel, una sub alta, din otel: 16 mm. Prevazut cu plasa pentru inel din poliamida, culoare alb/rosu/albastru. Dimensiune sistem prindere: 11x11cm. Greutate: 2 kg. Contine accesoriile de montaj.",
+      "Inel baschet American Classic, țeavă inel dublă, cu arc și cu plasă, pentru interior sau exterior. Diametru inel (coș): 45 cm. Diametru fiecare țeavă inel, una sub alta, din oțel: 16 mm. Prevăzut cu plasă pentru inel din poliamidă, culoare alb/roșu/albastru. Dimensiune sistem prindere: 11x11cm. Greutate: 2 kg. Conține accesoriile de montaj.",
     inCart: false,
     count: 0,
     total: 0
   },
   {
     id: 7,
-    title: "Bicicleta",
+    title: "Bicicletă",
     img: "img/product-7.png",
     price: 249,
     model: "Santa Cruz TALLBOY AL1.1",
     info:
-      "Bicicletele Tallboy au devenit foarte populare intr-un timp relativ scurt de când le-am introdus pe piaţă, şi au primit critici favorabile din partea presei şi, mai important, din partea miilor de ciclişti care le-au testat. Asocierea suspensiei WTB cu roţile de 29” au creat o bicicletă versatilă ce rulează rapid şi se manevrează precis, o bicicletă ce exploatează avantajos beneficiile echipării cu roţi mari, confortabilă pe orice teren de la potecile înguste de munte până la aglomeraţia liniilor de start în competiţii. Acum acest model e disponibil şi din aluminiu – aceeaşi geometrie, aceleaşi linii, aceeaşi suspensie excelentă, un pic mai multă greutate, mult mai puţini bani.",
+      "Bicicletele Tallboy au devenit foarte populare într-un timp relativ scurt de când le-am introdus pe piaţă  şi au primit critici favorabile dinpartea presei şi, mai important, din partea miilor de ciclişti care le-au testat. Asocierea suspensiei WTB cu roţile de 29” au creat o bicicletă versatilă ce rulează rapid şi se manevrează precis, o bicicletă ce exploatează avantajos beneficiile echipării cu roţi mari, confortabilă pe orice teren de la potecile înguste de munte până la aglomeraţia liniilor de start în competiţii. Acum acest model e disponibil şi din aluminiu – aceeaşi geometrie, aceleaşi linii, aceeaşi suspensie excelentă, un pic mai multă greutate, mult mai puţini bani.",
     inCart: false,
     count: 0,
     total: 0
@@ -90,19 +90,19 @@ export const storeProducts = [
     price: 49,
     model: "Fishskateboard Cruiser SZCZUPAK multicolor 67cm",
     info:
-      "Cruiserul -SZCZUPAK multicolor, produs de Fish Skateboards beneficiaza de o placa din artar canadian in 7 straturi, dotat cu roti fish skateboard  de 59 mm, cu o dimensiune de 26 inch x 8 inch, care va ofera posibilitatea de a rula pe strazile orasului mult mai repede si confortabil.",
+      "Cruiserul -SZCZUPAK multicolor, produs de Fish Skateboards beneficiază de o placă din arțar canadian în 7 straturi, dotat cu roți fish skateboard  de 59 mm, cu o dimensiune de 26 inch x 8 inch, care vă oferă posibilitatea de a rula pe străzile orașului mult mai repede și confortabil.",
     inCart: false,
     count: 0,
     total: 0
   },
   {
     id: 9,
-    title: "Placa de snowboard",
+    title: "Placă de snowboard",
     img: "img/product-9.png",
     price: 249,
     model: "Trans LTD",
     info:
-      "Noul Trans LTD este placa perfecta care te va insoti pe orice teren. Este usoara, se intoarce aproape de la sine si are o flexibilitate foarte mare, care pune in umbra cateva tipuri de placi foarte cunoscute. LTD vine cu un profil rocker plat - perfect pentru freeride si freestyle. In ceea ce priveste productia, TRANS a folosit noul lor RUGGEDCORE si cea mai recenta dezvoltare a laminatelor din sectorul materialelor, denumita CORETEX 9000. Ambele elemente combina doar cele mai bune atribute care se regasesc in productia de placi.",
+      "Noul Trans LTD este placă perfectă care te va însoți pe orice teren. Este ușoară, se întoarce aproape de la sine și are o flexibilitate foarte mare, care pune în umbră câteva tipuri de plăci foarte cunoscute. LTD vine cu un profil rocker plat - perfect pentru freeride și freestyle. În ceea ce privește producția, TRANS a folosit noul lor RUGGEDCORE și cea mai recentă dezvoltare a laminatelor din sectorul materialelor, denumită CORETEX 9000. Ambele elemente combină doar cele mai bune atribute care se regăsesc în producția de plăci.",
     inCart: false,
     count: 0,
     total: 0
@@ -114,19 +114,19 @@ export const storeProducts = [
     price: 187,
     model: "Ski Head SHAPE 5.0, negru/alb, 156 cm",
     info:
-      "Shape 5.0 este un schi allrounder, ideal pentru incepatori si intermediari. Rocker-ul Allride promite placerea de a-l folosi. Este un schi usor de condus, raza mica promite control usor, chiar si atunci cand simtiti ca merge mai repede.SX 10 este o legatura special conceputa pentru a fi usoara, fara a compromite siguranta. Destinata persoanelor cu greutate de la 31 kg in sus si cu scala DIN de la 3 pana la 10, legatura are o gama larga de aplicatii. DIN indica rezistenta la care se poate expune legatura inainte de eliberarea claparilor, calculata in functie de greutatea corporala, stilul de schiat. Aceasta legatura este o alegere buna atunci cand siguranta si greutatea redusa sunt importante.",
+      "Shape 5.0 este un schi allrounder, ideal pentru începători și intermediari. Rocker-ul Allride promite plăcerea de a-l folosi. Este un schi ușor de condus, rază mică promite control ușor, chiar și atunci când simțiți că merge mai repede.SX 10 este o legătură special concepută pentru a fi ușoară, fără a compromite siguranță. Destinată persoanelor cu greutate de la 31 kg în sus și cu scala DIN de la 3 până la 10, legătură are o gama largă de aplicații. DIN indică rezistență la care se poate expune legătură înainte de eliberarea claparilor, calculată în funcție de greutatea corporală, stilul de schiat. Această legătură este o alegere bună atunci când siguranța și greutatea redusă sunt importante.",
     inCart: false,
     count: 0,
     total: 0
   },
   {
     id: 11,
-    title: "Bete schiuri",
+    title: "Bețe schiuri",
     img: "img/product-11.png",
     price: 19,
     model: "Salomon X North, Unisex, White, 115",
     info:
-      "Betele de ski Salomon X North sunt fabricate din aluminiu rezistent si usor, care asigura un echilibru perfect.",
+      "Bețele de ski Salomon X North sunt fabricate din aluminiu rezistent și ușor, care asigură un echilibru perfect.",
     inCart: false,
     count: 0,
     total: 0
@@ -138,17 +138,17 @@ export const storeProducts = [
     price: 15,
     model: "Salomon Cosmic, Unisex, Green, One size",
     info:
-      "Cosmic sunt ochelarii mult asteptati de iubitorii de sporturi de iarna. Se potriveste excelent peste ochelarii de vedere si nu se aburesc indiferent de conditiile meteo. Noua lentila Sigma ™ amplifica contrastul, permitand ochiului sa citeasca mai bine variatiile de teren, mai ales in conditii de lumina insorita sau innorata.",
+      "Cosmic sunt ochelarii mult așteptați de iubitorii de sporturi de iarnă. Se potrivește excelent peste ochelarii de vedere și nu se aburesc indiferent de condițiile meteo. Noua lentilă Sigma ™ amplifică contrastul, permițând ochiului să citească mai bine variațiile de teren, mai ales în condiții de lumină însorită sau înnorată.",
     inCart: false,
     count: 0,
     total: 0
   },
   {
     id: 13,
-    title: "Gantera 10kg",
+    title: "Ganteră 10kg",
     img: "img/product-13.png",
     price: 19,
-    model: "Gantera InSPORTline Profi 10 Kg",
+    model: "Ganteră InSPORTline Profi 10 Kg",
     info:
       "Gantera inSPORTline Profi 10 kg este o gantera versatila de calitate superioara, ideala pentru a lucra eficient muschii biceps si triceps. Manerul cu forma ergonomica este realizat din otel si are striatii anti-alunecare asigurand o stabilitate mare a ganterei in maini, chiar si in timpul celor mai solicitante exercitii. Constructia solida a Ganterei inSPORTline Profi 10 kg asigura o durabilitate inalta. ",
     inCart: false,
@@ -157,7 +157,7 @@ export const storeProducts = [
   },
   {
     id: 14,
-    title: "Gantera 14kg",
+    title: "Ganteră 14kg",
     img: "img/product-14.png",
     price: 29,
     model: "Gantera InSPORTline Profi 14 Kg",
@@ -169,7 +169,7 @@ export const storeProducts = [
   },
   {
     id: 15,
-    title: "Gantera 18kg",
+    title: "Ganteră 18kg",
     img: "img/product-15.png",
     price: 39,
     model: "Gantera InSPORTline Profi 18 Kg",
@@ -181,7 +181,7 @@ export const storeProducts = [
   },
   {
     id: 16,
-    title: "Gantera 22kg",
+    title: "Ganteră 22kg",
     img: "img/product-16.png",
     price: 49,
     model: "Gantera InSPORTline Profi 22 Kg",
@@ -193,7 +193,7 @@ export const storeProducts = [
   },
   {
     id: 17,
-    title: "Haltera Z 30kg",
+    title: "Halteră Z 30kg",
     img: "img/product-17.png",
     price: 72,
     model: "Bara, VidaXL, Z cu greutati 30 kg",
@@ -205,7 +205,7 @@ export const storeProducts = [
   },
   {
     id: 18,
-    title: "Haltera 20kg",
+    title: "Halteră 20kg",
     img: "img/product-18.png",
     price: 52,
     model: "Set Haltera Pump SPORTMANN 20 kg",
@@ -217,7 +217,7 @@ export const storeProducts = [
   },
   {
     id: 19,
-    title: "Haltera 20kg",
+    title: "Halteră 20kg",
     img: "img/product-19.png",
     price: 62,
     model: "Set haltera Pump Sportmann 2-20 kg",
@@ -229,7 +229,7 @@ export const storeProducts = [
   },
   {
     id: 20,
-    title: "Gantere si bara 50kg",
+    title: "Gantere si bară 50kg",
     img: "img/product-20.png",
     price: 124,
     model: "Set Gantere Si Bara InSPORTline BS08 3-50 Kg",
@@ -241,7 +241,7 @@ export const storeProducts = [
   },
   {
     id: 21,
-    title: "Gantera 10 kg",
+    title: "Ganteră 10 kg",
     img: "img/product-21.png",
     price: 16,
     model: "Gantera Vin-Bell InSPORTline 10 Kg",
@@ -253,7 +253,7 @@ export const storeProducts = [
   },
   {
     id: 22,
-    title: "Gantera 14kg",
+    title: "Ganteră 14kg",
     img: "img/product-22.png",
     price: 20,
     model: "Gantera Vin-Bell InSPORTline 14 Kg",
@@ -265,7 +265,7 @@ export const storeProducts = [
   },
   {
     id: 23,
-    title: "Gantera 16kg",
+    title: "Ganteră 16kg",
     img: "img/product-23.png",
     price: 24,
     model: "Gantera Vin-Bell InSPORTline 16 Kg",
@@ -277,7 +277,7 @@ export const storeProducts = [
   },
   {
     id: 24,
-    title: "Gantera 20kg",
+    title: "Ganteră 20kg",
     img: "img/product-24.png",
     price: 28,
     model: "Gantera Vin-Bell InSPORTline 20 Kg",
@@ -289,7 +289,7 @@ export const storeProducts = [
   },
   {
     id: 25,
-    title: "Bara Haltera",
+    title: "Bară Halteră",
     img: "img/product-25.png",
     price: 31,
     model: "Bara Haltera 220cm / 50mm Olympic Sportmann 500kg",
@@ -301,7 +301,7 @@ export const storeProducts = [
   },
   {
     id: 26,
-    title: "Disc Cauciuc 5kg",
+    title: "Disc 5kg",
     img: "img/product-26.png",
     price: 15,
     model: "Greutate Cauciuc Bumper Plate SPORTMANN - 5 kg / 51 mm - Rosu",
@@ -313,7 +313,7 @@ export const storeProducts = [
   },
   {
     id: 27,
-    title: "Disc Cauciuc 10kg",
+    title: "Disc 10kg",
     img: "img/product-27.png",
     price: 20,
     model: "Greutate Cauciuc Bumper Plate SPORTMANN - 10 kg / 51 mm - Rosu",
@@ -325,7 +325,7 @@ export const storeProducts = [
   },
   {
     id: 28,
-    title: "Disc Cauciuc 20kg",
+    title: "Disc 20kg",
     img: "img/product-28.png",
     price: 25,
     model: "Greutate Cauciuc Bumper Plate SPORTMANN - 20 kg / 51 mm - Rosu",
@@ -349,7 +349,7 @@ export const storeProducts = [
   },
   {
     id: 30,
-    title: "Banca Aerobic",
+    title: "Bancă aerobic",
     img: "img/product-30.png",
     price: 31,
     model: "Banca Aerobic InSPORTline AS500",
@@ -361,7 +361,7 @@ export const storeProducts = [
   },
   {
     id: 31,
-    title: "Roata Exercitii",
+    title: "Roată exerciții",
     img: "img/product-31.png",
     price: 12,
     model: "Roata Exercitii InSPORTline AB Roller AR200",
@@ -373,7 +373,7 @@ export const storeProducts = [
   },
   {
     id: 32,
-    title: "Trambulina",
+    title: "Trambulină",
     img: "img/product-32.png",
     price: 68,
     model: "Trambulina Pliabila InSPORTline 122 Cm",
@@ -385,7 +385,7 @@ export const storeProducts = [
   },
   {
     id: 33,
-    title: "Coarda profesionala",
+    title: "Coardă profesională",
     img: "img/product-33.png",
     price: 10,
     model:
@@ -398,7 +398,7 @@ export const storeProducts = [
   },
   {
     id: 34,
-    title: "Centura slabire",
+    title: "Centură slăbire",
     img: "img/product-34.png",
     price: 7,
     model:
@@ -423,7 +423,7 @@ export const storeProducts = [
   },
   {
     id: 36,
-    title: "Manere flotari",
+    title: "Mânere flotări",
     img: "img/product-36.png",
     price: 14,
     model: "Manere flotari inSPORTine Push up PU200",
@@ -435,7 +435,7 @@ export const storeProducts = [
   },
   {
     id: 37,
-    title: "Bicicleta fitness",
+    title: "Bicicletă fitness",
     img: "img/product-37.png",
     price: 167,
     model:
@@ -448,7 +448,7 @@ export const storeProducts = [
   },
   {
     id: 38,
-    title: "Banda de alergat",
+    title: "Bandă de alergat",
     img: "img/product-38.png",
     price: 418,
     model: "Banda de alergat Treadmill, Sports2be, 1245 cm, gri cu negru",
@@ -521,7 +521,7 @@ export const storeProducts = [
   },
   {
     id: 44,
-    title: "Barca Gonflabila",
+    title: "Barcă gonflabilă",
     img: "img/product-44.png",
     price: 239,
     model: "Barca Gonflabila Intex Mariner 3 Set Complet",
@@ -533,7 +533,7 @@ export const storeProducts = [
   },
   {
     id: 45,
-    title: "Cort Camping",
+    title: "Cort camping",
     img: "img/product-45.png",
     price: 347,
     model: "Cort Coleman Oak Canyon 4 persoane verde/gri",
@@ -545,7 +545,7 @@ export const storeProducts = [
   },
   {
     id: 46,
-    title: "Rucsac Camping",
+    title: "Rucsac camping",
     img: "img/product-46.png",
     price: 73,
     model: "Rucsac AirContact Pro 70+15L Deuter",
@@ -557,7 +557,7 @@ export const storeProducts = [
   },
   {
     id: 47,
-    title: "Pachet Camping",
+    title: "Pachet camping",
     img: "img/product-47.png",
     price: 47,
     model:
@@ -589,8 +589,7 @@ export const detailProduct = {
   img: "img/product-1.png",
   price: 0,
   model: "test",
-  info:
-    "test",
+  info: "test",
   inCart: false,
   count: 0,
   total: 0

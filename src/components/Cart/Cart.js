@@ -18,7 +18,7 @@ export default class Car extends Component {
             if (cart.length > 0) {
               return (
                 <React.Fragment>
-                  <Head>Cosul meu</Head> 
+                  <Head>Coșul meu</Head> 
                   <br />
                   <CartColumns />
                   <CartList value={value} />

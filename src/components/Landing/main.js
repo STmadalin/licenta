@@ -8,13 +8,13 @@ class Main extends Component {
           <h2>Despre noi</h2>
           <div>
             <p>
-              Suntem mandri sa iti recomandam produse pentru sportul tau
-              preferat, fabricate in Romania.
+              Suntem mândri să îți recomandăm produse pentru sportul tău
+              preferat, fabricate în România.
             </p>
             <p>
-              Obiectivul ASport este acela de a face sportul accesibil cat mai
-              multor oameni, motiv pentru care am ales sa fabricam echipamente
-              sportive pentru marcile proprii si in Romania.
+              Obiectivul ASport este acela de a face sportul accesibil cât mai
+              multor oameni, motiv pentru care am ales să fabricăm echipamente
+              sportive pentru mărcile proprii și în România.
             </p>
           </div>
         </section>
@@ -32,24 +32,24 @@ class Main extends Component {
           <h2>Obiectivul Nostru</h2>
           <div>
             <p>
-              La ASport, obiectivul nostru este acela de a va oferi produse de
-              cea mai buna calitate, pentru ca dvs. sa va concentrati pe propria
-              performanta! Conceperea produselor incepe prin observarea
-              utilizatorilor pe teren, inainte ca inginerii nostri sa se ocupe
-              de productie si dezvoltare.{" "}
+              La ASport, obiectivul nostru este acela de a vă oferi produse de
+              cea mai bună calitate, pentru ca dvs. să vă concentrați pe propria
+              performanță! Conceperea produselor începe prin observarea
+              utilizatorilor pe teren, înainte ca inginerii noștri să se ocupe
+              de producție și dezvoltare.{" "}
             </p>
             <p>
-              Alegem constant cele mai bune materiale si procese pentru a va
-              asigura siguranta si placere in practicarea sportului favorit.
-              Testam produsele noastre in laboratoare de specialitate, pentru a
-              evalua gradul acestora de securitate si confort.
+              Alegem constant cele mai bune materiale și procese pentru a vă
+              asigura siguranță și plăcere în practicarea sportului favorit.
+              Testăm produsele noastre în laboratoare de specialitate, pentru a
+              evalua gradul acestora de securitate și confort.
             </p>
             <p>
-              Produsele sunt apoi verificate de catre utilizatori sportivi in
-              situatii reale de practica. La ASport, solicitam utilizatorilor
-              opinia. De ce? Consideram ca dvs, in calitate de sportivi
-              pasionati, sunteti cei mai in masura sa ne ajutati sa imbunatatim
-              serviciile si produsele pe care vi le oferim.
+              Produsele sunt apoi verificate de către utilizatori sportivi în
+              situații reale de practică. La ASport, solicităm utilizatorilor
+              opinia. De ce? Considerăm că dvs, în calitate de sportivi
+              pasionați, sunteți cei mai în măsură să ne ajutați să îmbunătățim
+              serviciile și produsele pe care vi le oferim.
             </p>
           </div>
         </section>

@@ -30,10 +30,10 @@ export default class Product extends Component {
                   {inCart ? (
                     <p className="mb-0 fas fa-cart-arrow-down" disabled>
                       {" "}
-                      In cos
+                      In coș
                     </p>
                   ) : (
-                    <i className="fas fa-cart-plus"> Adauga</i>
+                    <i className="fas fa-cart-plus"> Adaugă</i>
                   )}
                 </button>
               </div>

@@ -37,21 +37,21 @@ export default class Details extends Component {
                   <h2>Model : {model}</h2>
                   <h4 className="text-blue">
                     <strong>
-                      pret : <span>€</span>
+                      Preț : <span>€</span>
                       {price}
                     </strong>
                   </h4>
-                  <hr className="font-weight-bold"/>
+                  <hr className="font-weight-bold" />
                   <h4 className="text-capitalize font-weight-bold mt-3 mb-0">
-                  Descriere
+                    Descriere
                   </h4>
                   <br />
                   <p className="text-muted lead">{info}</p>
-                  <hr className="font-weight-bold"/>
+                  <hr className="font-weight-bold" />
                   {/* Buttons */}
                   <div>
                     <Link to="/produse">
-                      <ButtonContainer>Inapoi la Produse</ButtonContainer>
+                      <ButtonContainer>Înapoi la Produse</ButtonContainer>
                     </Link>
                     <ButtonContainer
                       cart
@@ -61,7 +61,7 @@ export default class Details extends Component {
                         value.openModal(id);
                       }}
                     >
-                      {inCart ? "Deja in Cos" : "Adauga in Cos"}
+                      {inCart ? "Deja în Coș" : "Adaugă in Coș"}
                     </ButtonContainer>
                   </div>
                 </div>

@@ -14,10 +14,9 @@ https://www.iconfinder.com/Makoto_msk*/}
           <img src={logo} alt="store" className="navbar-brand" />
         </Link>
         <ul className="navbar-nav align-items-center">
-          
           <li className="nav-item ml-5">
             <Link to="/" className="nav-link">
-              acasa
+              acasă
             </Link>
           </li>
           <li className="nav-item ml-5">
@@ -36,7 +35,7 @@ https://www.iconfinder.com/Makoto_msk*/}
             <span className="mr-2">
               <i className="fas fa-cart-plus" />
             </span>
-            Cosul meu
+            Coșul meu
           </ButtonContainer>
         </Link>
       </NavWrapper>
@@ -50,6 +49,5 @@ const NavWrapper = styled.nav`
     color: var(--mainWhite) !important;
     font-size: 1.3rem;
     text-transform: capitalize;
-    
   }
 `;

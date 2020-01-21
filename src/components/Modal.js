@@ -27,14 +27,14 @@ export default class Modal extends Component {
                         <strong>
                           <i class="fas fa-check" style={{ color: "green" }}>
                             {" "}
-                            Produs adaugat cu scucces
+                            Produs adăugat cu scucces
                           </i>
                         </strong>{" "}
                       </ModalH5>
                       <hr style={{ border: "1px solid grey" }} />
                       <img src={img} className="img-fluid" alt="product" />
                       <ModalH5>{title}</ModalH5>
-                      <h5 className="text-muted">Pret : {price}€</h5>
+                      <h5 className="text-muted">Preț : {price}€</h5>
                       <Link to="/produse">
                         <ButtonContainer onClick={() => closeModal()}>
                           Magazin
@@ -42,7 +42,7 @@ export default class Modal extends Component {
                       </Link>
                       <Link to="/cart">
                         <ButtonContainer cart onClick={() => closeModal()}>
-                          Mergi la Cos
+                          Mergi la Coș
                         </ButtonContainer>
                       </Link>
                     </div>

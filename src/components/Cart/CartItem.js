@@ -18,7 +18,7 @@ export default function CartItem({ item, value }) {
         {title}
       </div>
       <div className="col-10 mx-auto col-lg-2">
-        <span className="d-lg-none">pret : </span>
+        <span className="d-lg-none">preț : </span>
         {price} €
       </div>
       <div className="col-10 mx-auto col-lg-2 my-2 my-lg-0">
